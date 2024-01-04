@@ -1,14 +1,15 @@
+body{
+    background-color: black;
+}
+
 h1{
     color: blueviolet;
 }
 h2{
     color: blueviolet; 
 }
-p{
-    color: white;
+
+.test{
+    color: #ffffff !important;
 }
 
-
-body{
-    background-color: black;
-}
